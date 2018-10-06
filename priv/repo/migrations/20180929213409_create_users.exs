@@ -4,7 +4,7 @@ defmodule Rumbl.Repo.Migrations.CreateUsers do
   def change do
     create table(:users) do
       add :name, :string
-      ad :username, :string, null: false
+      add :username, :string, null: false
       
       timestamps()
     end
