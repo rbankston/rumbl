@@ -1,5 +1,6 @@
 # Rumbl
 
+Working through programming phoenix by Chris McCord, Bruce Tate, and Jose Valim
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
